@@ -1,26 +1,32 @@
-#Goodbye Website
+# _Cookie Recipe_
 
-#####HTML Exercise for Epicodus, 10.08.2018
+#### _HTML Exercise for Epicodus, 10.08.2018_
 
-###By Christopher Thomas Cahill and Kristin Brewer-Lowe
+#### By Christopher Thomas Cahill and Kristin Brewer-Lowe
 
-##Description
+## Description
 
-This web page describes a family cat, Blue.
+_This website describes a family cat, Blue._
 
-##Setup
+## Setup/Installation Requirements
 
-Clone this repository.
+* _Clone this repository_
 
-##Technologies Used
+## Known Bugs
 
-HTML
+_N/A_
 
-###Legal
+## Support and contact details
 
-Copyright (c) 2018 Christopher Thomas Cahill and Kristin Brewer-Lowe
+_chris@christophercahill.co_
 
-This software is licensed under the MIT license.
+## Technologies Used
+
+_HTML_
+
+### License
+
+*This software is licensed under the MIT license.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -38,4 +44,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+THE SOFTWARE.*
+
+Copyright (c) 2016 **_Christopher Thomas Cahill and Kristin Brewer-Lowe_**
